@@ -1,7 +1,7 @@
 # Assign your variables below, each on its own line!
 
 caesar = "graham"
-praline = "john" \
+praline = "john" 
 "
 # Put your variables above this line, and uncomment the following 3 line of codes.
 # print(caesar)
