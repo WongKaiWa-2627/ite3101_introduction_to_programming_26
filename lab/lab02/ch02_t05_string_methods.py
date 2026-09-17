@@ -1,2 +1,2 @@
-p
+parrot
 print
