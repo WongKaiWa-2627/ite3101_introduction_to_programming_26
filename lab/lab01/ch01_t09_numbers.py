@@ -1,1 +1,1 @@
-cucum
+cucumber = 1
