@@ -1,2 +1,2 @@
 cucumber = 1
-pr
+price_
