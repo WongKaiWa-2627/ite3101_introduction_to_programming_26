@@ -1,1 +1,2 @@
-skill_completed = "Python "
+skill_completed = "Python Syntaz"
+exercises_
