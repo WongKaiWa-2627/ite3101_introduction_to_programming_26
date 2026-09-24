@@ -1,2 +1,2 @@
 skill_completed = "Python Syntaz"
-exercises_
+exercises_comp
