@@ -1,1 +1,1 @@
-def answer()->i
+def answer()->int
