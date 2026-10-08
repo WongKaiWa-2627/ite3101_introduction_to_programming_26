@@ -1,2 +1,3 @@
 def shut_down(sister)->str:
-    if s == "yes"
+    if s == "yes":
+        return 
