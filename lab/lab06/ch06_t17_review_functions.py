@@ -1,4 +1,4 @@
-def shut_down(sistr)->str:
+def shut_down(s: str)->str:
     if s == "yes":
         return "Shutting down"
     if s == "no":
