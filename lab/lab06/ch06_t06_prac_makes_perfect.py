@@ -1,4 +1,4 @@
-
+from t
 
 
 def cube(number:int) -> int:
