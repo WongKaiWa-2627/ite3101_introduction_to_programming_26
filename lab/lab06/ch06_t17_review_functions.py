@@ -4,4 +4,4 @@ def shut_down(sister)->str:
     if s=="no":
         return "shutting down"
     else:
-        return "sorry"
+        return "Sorry"
