@@ -1,6 +1,6 @@
 def shut_down(sister)->str:
     if s == "yes":
-        return "shutting down"
+        return "Shutting down"
     if s=="no":
         return "Shutting down"
     else:
