@@ -1,4 +1,4 @@
-from t
+from typing import A
 
 
 def cube(number:int) -> int:
