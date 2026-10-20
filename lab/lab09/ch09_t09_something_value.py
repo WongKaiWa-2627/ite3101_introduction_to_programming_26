@@ -18,3 +18,4 @@ for key in prices:
     print("stock: %s" % stock[key])
     totel += prices[key] * stock[key]
 
+print(total)
