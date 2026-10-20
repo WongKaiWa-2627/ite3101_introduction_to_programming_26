@@ -6,5 +6,4 @@ prices = {
 }
 
 stock ={
-
 }
