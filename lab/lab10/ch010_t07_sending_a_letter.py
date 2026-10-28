@@ -55,4 +55,4 @@ def get_letter_grade(score:fload) -> str:
     else:
         return "F"
 
-print(get_letter_grade)
+print(get_letter_grade())
