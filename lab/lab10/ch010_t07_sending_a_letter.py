@@ -53,4 +53,6 @@ def get_letter_grade(score:fload) -> str:
     elif score >= 60:
         return "D"
     else:
-        return False
+        return "F"
+
+pr
