@@ -45,4 +45,5 @@ def get_letter_grade(score:fload) -> str:
     if score >= 90:
         return "A"
     elif score >= 80:
-        
+        return "B"
+    
