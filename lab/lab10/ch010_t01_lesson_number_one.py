@@ -6,5 +6,5 @@ lloyd ={
 }
 
 alice = {
-    
+    "name"
 }
