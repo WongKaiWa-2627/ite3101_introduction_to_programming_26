@@ -1,4 +1,4 @@
-from typing imoro
+from typing import
 
 
 n = [3, 5, 7]
