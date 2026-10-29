@@ -7,4 +7,4 @@ def print_list(x:List[int])-Nove:
     for i in range(0, len(x)):
         print(x[i])
 
-        
+
