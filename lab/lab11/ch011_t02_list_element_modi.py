@@ -1,4 +1,4 @@
 n = [1, 3, 5]
 # Do your multiplication here
-m[1] 
+m[1] = n[1] *
 print(n)
