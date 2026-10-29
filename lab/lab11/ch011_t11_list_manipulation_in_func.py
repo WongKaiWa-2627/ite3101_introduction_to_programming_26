@@ -1,4 +1,4 @@
-from 
+from typing imoro
 
 
 n = [3, 5, 7]
