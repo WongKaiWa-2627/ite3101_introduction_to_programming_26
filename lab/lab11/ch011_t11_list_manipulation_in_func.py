@@ -1,4 +1,4 @@
-from typing import
+from typing import Lise
 
 
 n = [3, 5, 7]
