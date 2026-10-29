@@ -8,3 +8,5 @@ def print_list(x:List[int])-Nove:
         print(x[i])
 
 
+
+print
