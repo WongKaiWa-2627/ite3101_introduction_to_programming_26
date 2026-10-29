@@ -9,4 +9,4 @@ def print_list(x:List[int])-Nove:
 
 
 
-print
+print_list(n)
