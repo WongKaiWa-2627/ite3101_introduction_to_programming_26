@@ -1,1 +1,1 @@
-def is_int(x: f)
+def is_int(x: float)
