@@ -1,2 +1,2 @@
 
-def count(sq)
+def count(sequence: List)
