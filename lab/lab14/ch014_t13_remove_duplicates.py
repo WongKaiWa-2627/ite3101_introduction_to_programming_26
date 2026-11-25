@@ -1,2 +1,3 @@
 def remove_duplicates(seq: List[int])-> List[int]:
-    re
+    result = []
+    for item in seq
