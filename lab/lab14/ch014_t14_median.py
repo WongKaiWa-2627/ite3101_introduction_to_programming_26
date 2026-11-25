@@ -2,4 +2,4 @@
 from typing import List
 
 
-def median(lst:List)
+def median(lst:List[int])
