@@ -1,4 +1,4 @@
-
+from
 
 
 def product(seq: List[int])->int:
