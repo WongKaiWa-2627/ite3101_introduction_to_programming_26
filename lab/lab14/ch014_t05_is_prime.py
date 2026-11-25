@@ -1,4 +1,4 @@
-import List
+import 
 
 
 def is_prime(x: int) -> bool:
