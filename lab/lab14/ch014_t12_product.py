@@ -1,2 +1,2 @@
 
-def product(seq: List[int])
+def product(seq: List[int]): 
