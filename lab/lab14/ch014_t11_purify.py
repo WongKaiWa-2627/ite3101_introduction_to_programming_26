@@ -1,2 +1,2 @@
 
-def pur
+def purify(seq: )
