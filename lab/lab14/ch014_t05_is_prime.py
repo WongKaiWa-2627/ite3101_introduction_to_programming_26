@@ -1,4 +1,4 @@
-from typing 
+from typing import 
 
 
 def is_prime(x:int)->bool:
