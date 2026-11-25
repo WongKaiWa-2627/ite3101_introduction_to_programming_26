@@ -2,4 +2,4 @@
 from typing import List
 
 
-def median 
+def median(1st)
