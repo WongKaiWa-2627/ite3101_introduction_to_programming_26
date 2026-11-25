@@ -1,2 +1,2 @@
 
-def purify(seq: )
+def purify(seq: List)
