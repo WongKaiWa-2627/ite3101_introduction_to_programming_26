@@ -1,3 +1,3 @@
 
 def product(seq: List[int])->int:
-    re
+    result = 
