@@ -1,3 +1,3 @@
 def reverse(text:str)->str:
     word = ""
-    leng
+    length = len(text)
