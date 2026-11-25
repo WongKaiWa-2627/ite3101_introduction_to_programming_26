@@ -1,4 +1,4 @@
-from typing 
+from typing import List
 
 
 def product(seq: List[int])->int:
