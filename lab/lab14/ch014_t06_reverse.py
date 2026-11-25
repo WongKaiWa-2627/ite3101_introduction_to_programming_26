@@ -5,4 +5,4 @@ def reverse(text:str)->str:
         word += text[length]
         i -=1
     return word
-"sa"
+"sa".reve
